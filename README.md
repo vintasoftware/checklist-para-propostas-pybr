@@ -19,7 +19,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 ### Pensando nos Tópicos da Proposta
 - [ ] Considrei em seguir uma **narrativa** através dos tópicos que vou abordar, com começo, meio e fim. Ou seja, sei introduzir o tema, justificar sua importância, desenvolver seus detalhes e concluir fornecendo mais material, com cada tópico levando ao outro. Exemplo de tópicos: 1) descrição do problema, 2) impacto do problema, 3) soluções para o problema, 4) mais informações sobre soluções
 - [ ] Considrei **casos reais** de vantagens, deficiências, tradeoffs, experiências, aprendizados e exemplos relacionados a meu tema
-- [ ] Deixei a audiência animada para **aprender mais** ao fazer minha talk ser como um *trailer* sobre meu tema, ou seja, introduzi bem meu tema através dos tópcios e dei o caminho para aprenderem mais
+- [ ] Deixei a audiência animada para **aprender mais** ao fazer minha talk ser como um *trailer* sobre meu tema, ou seja, introduzi bem meu tema através dos tópicos e dei o caminho para aprenderem mais
 
 ### Escrevendo o Texto da Proposta
 - [ ] Escrevi um curto primeiro parágrafo direcionado para **empolgar as pessoas sobre o tema**. Mostrei porque estou interessada em falar para todos sobre meu tema!
