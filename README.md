@@ -25,7 +25,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Mencionei **casos reais** de vantagens, problemas, tradeoffs, experiências, aprendizados relacionados a meu tema
 - [ ] Mencionei o que audiência terá **aprendido** quando sair da minha palestra. Usei mais "você vai aprender" do que "vamos falar sobre" no texto
 - [ ] Não tive **medo de revelar** minha palestra, listei tudo que era interessante na proposta
-- [ ] Incluí links para **conteúdo relacionado**, como blog posts, artigos, documentação, projetos no GitHub, etc.
+- [ ] Incluí links para **conteúdo relacionado** ao tema que eu produzi, como blog posts, artigos, documentação, projetos no GitHub, etc.
 - [ ] Incluí link para os **slides e vídeo** de outra edição da mesma palesta (caso já tenha sido apresentada em outro evento)
 - [ ] Minha proposta **não é agressiva e nem despreza** outras comunidades, linguagens, ferramentas, etc.
 - [ ] Minha proposta **não viola** o [Código de Conduta da conferência](https://2018.pythonbrasil.org.br/codigo-de-conduta/)
