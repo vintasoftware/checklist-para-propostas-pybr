@@ -52,10 +52,13 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Divulguei via **Telegram** para pessoas **próximas** votarem na(s) minha(s) palestra(s)
 - [ ] Divulguei via **quaisquer outros meios** para pessoas **próximas** votarem na(s) minha(s) palestra(s)
 
-### Exemplos de boas propostas aceitas em outras edições da Python Brasil:
+### Exemplos de boas propostas aceitas em outras edições da Python Brasil
 - [ ] Me inspirei na proposta "[GraphQL: nem sempre REST é a melhor alternativa para sua API](https://speakerfight.com/events/python-brasil-13-palestras/#graphql-nem-sempre-rest-e-a-melhor-alternativa-para-sua-api)"
 - [ ] Me inspirei na proposta "[Como fazer boas libs? O que torna uma biblioteca fácil de usar](https://speakerfight.com/events/python-brasil12-apresentacoes/#como-fazer-boas-libs-o-que-torna-uma-biblioteca-facil-de-usar-3)"
 - [ ] Me inspirei na proposta "[O que desenvolvedores deveriam aprender sobre design?](https://speakerfight.com/events/python-brasil-13-palestras/#o-que-desenvolvedores-deveriam-aprender-sobre-design)"
+
+### Propostas feitas com este checklist
+- [[Web] [BD] Normalize até machucar, desnormalize até funcionar em Django - Python Brasil 2018](https://speakerfight.com/events/python-brasil-2018-palestras/#web-bd-normalize-ate-machucar-desnormalize-ate-funcionar-em-django) (não foi aceita nem rejeitada ainda!)
 
 ## Outros materiais
 - [PyCon 2018 Proposing a Talk - Good Ideas](https://us.pycon.org/2018/speaking/talks/)
