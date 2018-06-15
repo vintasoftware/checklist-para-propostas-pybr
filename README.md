@@ -3,6 +3,8 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 
 **Dica**: copie o [raw text](https://raw.githubusercontent.com/vintasoftware/checklist-para-propostas-pybr/master/README.md) deste checklist e cole num [novo gist secreto seu](https://gist.github.com/)! Assim você terá sua versão do checklist onde os checks funcionam e onde você pode customizar a vontade.
 
+## Checklist
+
 ### Tema
 - [ ] Escolhi um tema **relevante** para a audiência. Imaginei quem estará na conferência e pensei: "sobre o que essas pessoas querem/precisam ouvir?"
 - [ ] Escolhi um tema enriquecedor, que trará um **novo aprendizado** para minha audiência
@@ -41,7 +43,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Me inspirei na proposta "[Como fazer boas libs? O que torna uma biblioteca fácil de usar](https://speakerfight.com/events/python-brasil12-apresentacoes/#como-fazer-boas-libs-o-que-torna-uma-biblioteca-facil-de-usar-3)"
 - [ ] Me inspirei na proposta "[O que desenvolvedores deveriam aprender sobre design?](https://speakerfight.com/events/python-brasil-13-palestras/#o-que-desenvolvedores-deveriam-aprender-sobre-design)"
 
-### Mais material
+## Mais material
 - [PyCon 2018 Proposing a Talk - Good Ideas](https://us.pycon.org/2018/speaking/talks/)
 - [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
 - [A repository of past PyCon proposals, both accepted and rejected](https://github.com/akaptur/pycon-proposals)
@@ -50,5 +52,5 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [Crafting your Conference Talk Proposal](http://procrastinatingdev.com/programming/crafting-your-conference-talk-proposal/)
 - [Don't Submit A Talk About Your Great Hack: Jesse's Seven Tips To Get Into PyCon](https://emptysqua.re/blog/seven-tips-for-pycon/)
 
-### Como contribuir com este checklist?
+## Como contribuir com este checklist?
 - Fork e PR! Ou [crie uma issue](https://github.com/vintasoftware/checklist-para-propostas-pybr/issues). Obrigado!
