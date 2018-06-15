@@ -5,24 +5,22 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 
 ## Checklist
 
-### Tema
+### Escolhendo o Tema
 - [ ] Escolhi um tema **relevante** para a audiência. Imaginei quem estará na conferência e pensei: "sobre o que essas pessoas querem/precisam ouvir?"
 - [ ] Escolhi um tema enriquecedor, que trará um **novo aprendizado** para minha audiência
 - [ ] Escolhi um tema que já me sinto **confortável** em falar ou terei tempo suficiente para estudar para me sentir confortável
 - [ ] Escolhi um tema que é possível apresentar em **25 minutos**
 - [ ] Escolhi um **único tema** e não um conjunto de temas pouco relacionados
 
-### Título da proposta
+### Definindo o Título
 - [ ] Escolhi um **título claro mas descolado** o suficiente para atrair atenção e indicativo sobre o que a palestra ensinará
 - [ ] Incluí o **prefixo de categoria** no meu título, por exemplo [Web], [Científico], [Carreira], etc.
 
-### Texto da proposta
+### Escrevendo o Texto da Proposta
 - [ ] Escrevi um curto primeiro parágrafo direcionado para **empolgar as pessoas sobre o tema**. Mostrei porque estou interessada em falar para todos sobre meu tema!
 - [ ] Usei uma **linguagem clara** o suficiente para introduzir meu tema
 - [ ] Descrevi **para qual audiência** minha palestra é direcionada (fui bem específica, "programadores Python" é muito geral, "programadores iniciantes em Python interessados em grafos" é válido)
-- [ ] Listei os **pontos que vou abordar** na minha palestra
-- [ ] Elaborei uma **narrativa** através dos pontos que vou abordar, com começo, meio e fim. Ou seja, sei introduzir o tema, justificar sua importância, desenvolver seus detalhes e concluir fornecendo mais material, com cada ponto levando ao outro. Exemplo de pontos: 1) descrição do problema, 2) impacto do problema, 3) soluções para o problema, 4) mais informações sobre soluções
-- [ ] Mencionei **casos reais** de vantagens, problemas, tradeoffs, experiências, aprendizados relacionados a meu tema
+- [ ] Listei os **tópicos que vou abordar** na minha palestra
 - [ ] Mencionei o que audiência terá **aprendido** quando sair da minha palestra. Usei mais "você vai aprender" do que "vamos falar sobre" no texto
 - [ ] Não tive **medo de revelar** minha palestra, listei tudo que era interessante na proposta
 - [ ] Incluí links para **conteúdo relacionado** ao tema que eu produzi, como blog posts, artigos, documentação, projetos no GitHub, etc.
@@ -32,6 +30,11 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Validei meu texto com um **mentor(a)**
 - [ ] Validei a **formatação** do meu texto
 - [ ] Validei a **gramática** do meu texto
+
+### Pensando no conteúdo da palestra (útil para definir os tópicos)
+- [ ] Elaborei uma **narrativa** através dos tópicos que vou abordar, com começo, meio e fim. Ou seja, sei introduzir o tema, justificar sua importância, desenvolver seus detalhes e concluir fornecendo mais material, com cada tópico levando ao outro. Exemplo de tópicos: 1) descrição do problema, 2) impacto do problema, 3) soluções para o problema, 4) mais informações sobre soluções
+- [ ] Mencionei **casos reais** de vantagens, deficiências, tradeoffs, experiências, aprendizados e exemplos relacionados a meu tema
+- [ ] Deixei a audiência animada para **aprender mais** ao fazer minha talk ser como um *trailer* sobre meu tema
 
 ### O que não fazer
 - [ ] Não estou propondo uma **propaganda** de um produto ou serviço comercial
