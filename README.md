@@ -14,7 +14,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 
 ### Título da proposta
 - [ ] Escolhi um **título claro mas descolado** o suficiente para atrair atenção e indicativo sobre o que a palestra ensinará
-- [ ] Incluí o prefixo de categoria no seu título como [Web], [Científico], [Carreira], ec.
+- [ ] Incluí o **prefixo de categoria** no meu título, por exemplo [Web], [Científico], [Carreira], etc.
 
 ### Texto da proposta
 - [ ] Escrevi um curto primeiro parágrafo direcionado para **empolgar as pessoas sobre o tema**. Mostrei porque estou interessada em falar para todos sobre meu tema!
