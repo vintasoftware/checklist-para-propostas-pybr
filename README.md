@@ -21,6 +21,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Elaborei uma **narrativa** através dos pontos que vou abordar, com começo, meio e fim. Ou seja, sei introduzir o tema, justificar sua importância, desenvolver seus detalhes e concluir fornecendo mais material, com cada ponto levando ao outro
 - [ ] Não tive **medo de revelar** minha palestra, listei tudo que era interessante na proposta
 - [ ] Mencionei o que audiência terá **aprendido** quando sair da minha palestra
+- [ ] Mencionei **casos reais** de vantagens, problemas, tradeoffs, experiências, aprendizados relacionados a meu tema
 - [ ] Não me preocupei com detalhes sobre o que vou falar que podem **mudar depois** e fui o mais específica possível sobre o tema
 - [ ] Incluí links para **conteúdo relacionado**, como blog posts, artigos, documentação, projetos no GitHub, etc.
 - [ ] Incluí link para os **slides e vídeo** de outra edição da mesma palesta, caso já tenha sido apresentada em outro evento
