@@ -9,11 +9,14 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Escolhi um tema **relevante** para a audiência. Imaginei quem estará na conferência e pensei: "sobre o que essas pessoas querem/precisam ouvir?"
 - [ ] Escolhi um tema enriquecedor, que trará um **novo aprendizado** para minha audiência
 - [ ] Escolhi um tema que já me sinto **confortável** em falar ou terei tempo suficiente para estudar para me sentir confortável
-- [ ] Escolhi um tema que é possível apresentar em **35 minutos**
+- [ ] Escolhi um tema que é possível apresentar em **25 minutos**
 - [ ] Escolhi um **único tema** e não um conjunto de temas pouco relacionados
 
-### Texto da proposta
+### Título da proposta
 - [ ] Escolhi um **título claro mas descolado** o suficiente para atrair atenção e indicativo sobre o que a palestra ensinará
+- [ ] Incluí o prefixo de categoria no seu título como [Web], [Científico], [Carreira], ec.
+
+### Texto da proposta
 - [ ] Escrevi um curto primeiro parágrafo direcionado para **empolgar as pessoas sobre o tema**. Mostrei porque estou interessada em falar para todos sobre meu tema!
 - [ ] Usei uma **linguagem clara** o suficiente para introduzir meu tema
 - [ ] Descrevi **para qual audiência** minha palestra é direcionada (fui bem específica, "programadores Python" é muito geral, "programadores iniciantes em Python interessados em grafos" é válido)
