@@ -31,6 +31,8 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Minha proposta **não é agressiva e nem despreza** outras comunidades, linguagens, ferramentas, etc.
 - [ ] Minha proposta **não viola** o [Código de Conduta da conferência](https://2018.pythonbrasil.org.br/codigo-de-conduta/)
 - [ ] Validei meu texto com um **mentor(a)**
+- [ ] Validei a formatação do meu texto (o Speakerfight suporta [Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/))
+- [ ] Validei a gramática do meu texto
 
 ### O que não fazer
 - [ ] Não estou propondo uma **propaganda** de um produto ou serviço comercial
