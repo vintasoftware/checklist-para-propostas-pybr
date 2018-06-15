@@ -42,8 +42,9 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 ### Mais material
 - [PyCon 2018 Proposing a Talk - Good Ideas](https://us.pycon.org/2018/speaking/talks/)
 - [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
-- [How I Review a PyCon Talk Proposal](https://doughellmann.com/blog/2011/10/18/how-i-review-a-pycon-talk-proposal/)
+- [A repository of past PyCon proposals, both accepted and rejected](https://github.com/akaptur/pycon-proposals)
 - [Example PyCon talk proposals](http://rhodesmill.org/brandon/2013/example-pycon-proposals/)
+- [How I Review a PyCon Talk Proposal](https://doughellmann.com/blog/2011/10/18/how-i-review-a-pycon-talk-proposal/)
 - [Crafting your Conference Talk Proposal](http://procrastinatingdev.com/programming/crafting-your-conference-talk-proposal/)
 - [Don't Submit A Talk About Your Great Hack: Jesse's Seven Tips To Get Into PyCon](https://emptysqua.re/blog/seven-tips-for-pycon/)
 
