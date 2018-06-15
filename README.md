@@ -17,6 +17,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Incluí o **prefixo de categoria** no meu título, por exemplo [Web], [Científico], [Carreira], etc.
 
 ### Pensando nos Tópicos da Proposta
+- [ ] Pensei no meu **objetivo** em dar a palestra, ou seja, respondi a pergunta "como quero impactar a audiência?". Exemplos: Propus uma solução? Mostrei porque o problema é importante. Apresentei uma ferramenta? Mostrei como ela é melhor que outras. Discuti sobre um processo? Mostrei como aplicá-lo. Apresentei uma comunidade? Mostrei como se engajarem nela. Defini boas práticas? Mostrei problemas que elas evitam. etc...
 - [ ] Considerei em seguir uma **narrativa** através dos tópicos que vou abordar, com começo, meio e fim. Ou seja, sei introduzir o tema, justificar sua importância, desenvolver seus detalhes e concluir fornecendo mais material, com cada tópico levando ao outro. Exemplo de tópicos: 1) descrição do problema, 2) impacto do problema, 3) soluções para o problema, 4) mais informações sobre soluções
 - [ ] Considerei **casos reais** de vantagens, deficiências, tradeoffs, experiências, aprendizados e exemplos relacionados a meu tema
 - [ ] Deixei a audiência animada para **aprender mais** ao fazer minha palestra ser como um *trailer* sobre meu tema, ou seja, introduzi bem meu tema através dos tópicos e dei o caminho para seguirem sozinhos. Assistir uma palestra não torna ninguém expert, mas pode inspirar pessoas a aprenderem mais
