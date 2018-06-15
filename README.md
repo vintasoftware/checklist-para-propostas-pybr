@@ -40,7 +40,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 
 ### Campo "Mais informações"
 - [ ] Detalhei quem sou e o que já fiz relacionado a Python, comunidades, programação, tecnologia, etc.
-- [ ] Expliquei porque sou a melhor pessoa para falar deste tema, expliquei minha experiência sobre ele
+- [ ] Expliquei porque sou a melhor pessoa para falar deste tema
 - [ ] Incluí links de outras palestras que já apresentei (caso existam)
 
 ### Divulgação
