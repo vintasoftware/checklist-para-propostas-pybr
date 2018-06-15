@@ -27,7 +27,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Não me preocupei com detalhes sobre o que vou falar que podem **mudar depois** e fui o mais específica possível sobre o tema
 - [ ] Não tive **medo de revelar** minha palestra, listei tudo que era interessante na proposta
 - [ ] Incluí links para **conteúdo relacionado**, como blog posts, artigos, documentação, projetos no GitHub, etc.
-- [ ] Incluí link para os **slides e vídeo** de outra edição da mesma palesta, caso já tenha sido apresentada em outro evento
+- [ ] Incluí link para os **slides e vídeo** de outra edição da mesma palesta (caso já tenha sido apresentada em outro evento)
 - [ ] Minha proposta **não é agressiva e nem despreza** outras comunidades, linguagens, ferramentas, etc.
 - [ ] Minha proposta **não viola** o [Código de Conduta da conferência](https://2018.pythonbrasil.org.br/codigo-de-conduta/)
 - [ ] Validei meu texto com um **mentor(a)**
@@ -37,7 +37,12 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 ### O que não fazer
 - [ ] Não estou propondo uma **propaganda** de um produto ou serviço comercial
 - [ ] Não estou propondo uma palestra sobre um **projeto incompleto**
- 
+
+### Campo "Mais informações"
+- [ ] Detalhei quem sou e o que já fiz relacionado a Python, comunidades, programação, tecnologia, etc.
+- [ ] Expliquei porque sou a melhor pessoa para falar deste tema, expliquei minha experiência sobre ele
+- [ ] Incluí links de outras palestras que já apresentei (caso existam)
+
 ### Divulgação
 - [ ] Submeti mais de uma proposta (quanto mais propostas, mais chances)
 - [ ] Divulguei via **Twitter** para pessoas **próximas** votarem na(s) minha(s) palestra(s)
@@ -50,7 +55,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Me inspirei na proposta "[Como fazer boas libs? O que torna uma biblioteca fácil de usar](https://speakerfight.com/events/python-brasil12-apresentacoes/#como-fazer-boas-libs-o-que-torna-uma-biblioteca-facil-de-usar-3)"
 - [ ] Me inspirei na proposta "[O que desenvolvedores deveriam aprender sobre design?](https://speakerfight.com/events/python-brasil-13-palestras/#o-que-desenvolvedores-deveriam-aprender-sobre-design)"
 
-## Mais material
+## Outros materiais
 - [PyCon 2018 Proposing a Talk - Good Ideas](https://us.pycon.org/2018/speaking/talks/)
 - [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
 - [A repository of past PyCon proposals, both accepted and rejected](https://github.com/akaptur/pycon-proposals)
