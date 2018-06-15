@@ -56,6 +56,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [How I Review a PyCon Talk Proposal](https://doughellmann.com/blog/2011/10/18/how-i-review-a-pycon-talk-proposal/)
 - [Crafting your Conference Talk Proposal](http://procrastinatingdev.com/programming/crafting-your-conference-talk-proposal/)
 - [Don't Submit A Talk About Your Great Hack: Jesse's Seven Tips To Get Into PyCon](https://emptysqua.re/blog/seven-tips-for-pycon/)
+- [Tips for Writing a Winning Conference Proposal](http://twist.elearningguild.net/2014/04/tips-for-writing-a-winning-conference-proposal/)
 
 ## Como contribuir com este checklist?
 - Fork e PR! Ou [crie uma issue](https://github.com/vintasoftware/checklist-para-propostas-pybr/issues). Obrigado!
