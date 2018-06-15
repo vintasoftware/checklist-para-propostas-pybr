@@ -1,7 +1,7 @@
 ## Checklist para propostas de palestras para Python Brasil
 Este é um checklist para inspirar e guiar pessoas a preparar propostas de palestras para Python Brasil! Criado pela [Vinta Software](https://www.vinta.com.br/).
 
-**Dica**: copie o [raw text](https://raw.githubusercontent.com/vintasoftware/checklist-para-propostas-pybr/master/README.md) deste checklist e cole num [novo gist secreto seu](https://gist.github.com/)! Assim você terá sua versão do checklist onde os checks funcionam e onde você pode customizar a vontade.
+**Dica**: copie o [raw text](https://raw.githubusercontent.com/vintasoftware/checklist-para-propostas-pybr/master/README.md) deste checklist e cole num [novo gist secreto seu](https://gist.github.com/) colocando o nome do arquivo com extensão `.md` (exemplo: `checklist.md`). Assim você terá sua versão do checklist onde os checks funcionam e onde você pode customizar a vontade!
 
 ## Checklist
 
