@@ -18,6 +18,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Usei uma **linguagem clara** o suficiente para introduzir meu tema
 - [ ] Descrevi **para qual audiência** minha palestra é direcionada (fui bem específica, "programadores Python" é muito geral, "programadores iniciantes em Python interessados em grafos" é válido)
 - [ ] Listei os **pontos que vou abordar** na minha palestra
+- [ ] Elaborei uma **narrativa** através dos pontos que vou abordar, com começo, meio e fim. Ou seja, sei introduzir o tema, justificar sua importância, desenvolver seus detalhes e concluir fornecendo mais material, com cada ponto levando ao outro
 - [ ] Não tive **medo de revelar** minha palestra, listei tudo que era interessante na proposta
 - [ ] Mencionei o que audiência terá **aprendido** quando sair da minha palestra
 - [ ] Não me preocupei com detalhes sobre o que vou falar que podem **mudar depois** e fui o mais específica possível sobre o tema
