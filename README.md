@@ -3,6 +3,10 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 
 **Dica**: copie o [raw text](https://raw.githubusercontent.com/vintasoftware/checklist-para-propostas-pybr/master/README.md) deste checklist e cole num [novo gist secreto seu](https://gist.github.com/) colocando o nome do arquivo com extensão `.md` (exemplo: `checklist.md`). Assim você terá sua versão do checklist onde os checks funcionam e onde você pode customizar a vontade!
 
+## Datas Python Brasil 2018
+- Submissão de palestras até dia 30/06/2018
+- Divulgação dos resultados até o dia 15/07/2018
+
 ## Checklist
 
 ### Escolhendo o Tema
@@ -42,12 +46,15 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Não estou propondo uma palestra sobre um **projeto incompleto**
 
 ### Campo "Mais informações"
-- [ ] Detalhei quem sou e o que já fiz relacionado a Python, comunidades, programação, tecnologia, etc.
-- [ ] Expliquei porque sou a melhor pessoa para falar deste tema
-- [ ] Incluí links de outras palestras que já apresentei (caso existam)
+- [ ] Detalhei **quem sou** e o que já fiz relacionado a Python, comunidades, programação, tecnologia, etc.
+- [ ] Expliquei porque sou a **melhor pessoa** para falar deste tema
+- [ ] Incluí **links** de outras palestras que já apresentei (caso existam)
+
+### Submissão
+- [ ] Submeti uma **primeira versão** da minha proposta assim que pude (quanto antes, mais chance de receber votos)
+- [ ] Submeti **mais de uma** proposta (quanto mais propostas, mais chances de aprovar uma)
 
 ### Divulgação
-- [ ] Submeti mais de uma proposta (quanto mais propostas, mais chances)
 - [ ] Divulguei via **Twitter** para pessoas **próximas** votarem na(s) minha(s) palestra(s)
 - [ ] Divulguei via **Facebook** para pessoas **próximas** votarem na(s) minha(s) palestra(s)
 - [ ] Divulguei via **Telegram** para pessoas **próximas** votarem na(s) minha(s) palestra(s)
