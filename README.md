@@ -67,7 +67,7 @@ Este é um checklist para inspirar e guiar pessoas a preparar propostas de pales
 - [ ] Me inspirei na proposta "[O que desenvolvedores deveriam aprender sobre design?](https://speakerfight.com/events/python-brasil-13-palestras/#o-que-desenvolvedores-deveriam-aprender-sobre-design)"
 
 ### Exemplo real de proposta antes e depois deste checklist
-- [[Web] [BD] Normalize até machucar, desnormalize até funcionar em Django - Python Brasil 2018](https://docs.google.com/document/d/1nNj4WuF0x8xMwwDyQAA5_iM2tc33JDB8sLM-OXv8bNo/edit?usp=sharing) (não foi aceita nem rejeitada ainda!)
+- [[Web] [BD] Normalize até machucar, desnormalize até funcionar em Django - Python Brasil 2018](https://docs.google.com/document/d/1nNj4WuF0x8xMwwDyQAA5_iM2tc33JDB8sLM-OXv8bNo/edit?usp=sharing) (foi aceita, mas não foi apresentada!)
 
 ## Outros materiais
 - [PyCon 2018 Proposing a Talk - Good Ideas](https://us.pycon.org/2018/speaking/talks/)
